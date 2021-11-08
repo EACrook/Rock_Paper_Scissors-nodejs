@@ -12,6 +12,9 @@ This application is written for Node and utilizes Inquirer to allow two users to
 ## GitHub Repo
 https://github.com/EACrook/Rock_Paper_Scissors-nodejs
 
+## Implementation
+To run this application, just ensure to run 'npm install in the command line' to make sure Node and Inquirer are installed. Run node app.js within the command line to start the game. 
+
 ## Future Development
 -Design a simple webpage for the application
 -Write tests
